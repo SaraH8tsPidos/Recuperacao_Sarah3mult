@@ -28,3 +28,18 @@ img {
     width: 100%;
     height: auto;
 }
+
+a:link {
+  color: #270c3b;
+  font-size: 40px;
+}
+
+a:visited {
+  color: #270c3b;
+  font-size: 40px;
+}
+
+a:hover {
+  color: #340b54;
+  font-size: 40px;
+}
